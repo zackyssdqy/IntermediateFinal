@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">IntermediateKu</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Mau bagikan pengalamanmu belajar Android, iOS, Machine Learning, Cloud, Front-End, Back-End, dan bidang IT lainnya? Di Dicoding Story Aja!</string>
+    <string name="title_welcome_page">Selamat datang di Dicoding Story APP</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk Upload Story?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Logout</string>
+    <string name="upload">Upload</string>
+    <string name="title">Title Story</string>
+    <string name="description">Story Description</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map">map</string>
+
+</resources>
